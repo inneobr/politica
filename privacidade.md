@@ -15,9 +15,9 @@ Tratamento dos dados pessoais:
 Dado pessoal: 
 
 é a informação relacionada à pessoa natural identificada ou identificável. Esses dados podem ser classificados como:   
->. Dados Diretos: São os dados que podem ser atribuídos a uma pessoa específica sem o uso de informações adicionais (RG, CPF, etc.);
->. Dados Indiretos: São os dados que não podem ser atribuídos a uma pessoa específica sem o uso de informações adicionais (IP, placa do carro, etc.);
->. Dados Sensíveis: dados pessoais que são, por sua natureza, particularmente sensíveis em relação aos direitos e liberdades fundamentais e que, por isso, merecem proteção específica, pois o contexto de seu tratamento pode criar riscos significativos aos direitos e liberdades fundamentais. Esses dados pessoais incluem dados pessoais que revelem a origem racial ou étnica, as opiniões políticas, as convicções religiosas ou filosóficas, ou a filiação sindical, bem como o tratamento de dados genéticos, dados biométricos para identificar uma pessoa de forma inequívoca, dados relativos à saúde ou dados relativos à vida sexual ou orientação sexual de uma pessoa.
+ * Dados Diretos: São os dados que podem ser atribuídos a uma pessoa específica sem o uso de informações adicionais (RG, CPF, etc.);
+ * Dados Indiretos: São os dados que não podem ser atribuídos a uma pessoa específica sem o uso de informações adicionais (IP, placa do carro, etc.);
+ * Dados Sensíveis: dados pessoais que são, por sua natureza, particularmente sensíveis em relação aos direitos e liberdades fundamentais e que, por isso, merecem proteção específica, pois o contexto de seu tratamento pode criar riscos significativos aos direitos e liberdades fundamentais. Esses dados pessoais incluem dados pessoais que revelem a origem racial ou étnica, as opiniões políticas, as convicções religiosas ou filosóficas, ou a filiação sindical, bem como o tratamento de dados genéticos, dados biométricos para identificar uma pessoa de forma inequívoca, dados relativos à saúde ou dados relativos à vida sexual ou orientação sexual de uma pessoa.
 
 Consentimento: 
 
@@ -40,13 +40,13 @@ A INNEO.ORG pode coletar os dados de forma direta ou por outros canais como port
 
 Que dados coletamos:
 
->. Informações pessoais de contato:
+ * Informações pessoais de contato:
 Inclui qualquer informação que permite a INNEO.ORG contatar ou verificar cadastro, como seu nome completo, CPF, data de nascimento, sexo, endereço postal, e-mail e número de telefone.
 
->. Informações de login de conta:
+ * Informações de login de conta:
 Qualquer informação que seja necessária para lhe dar acesso ao perfil de conta específico, como nome de usuário e login.
 
->. Informações técnicas sobre o computador/dispositivo móvel fornecido pela INNEO.ORG:
+ * Informações técnicas sobre o computador/dispositivo móvel fornecido pela INNEO.ORG:
 Qualquer informação sobre o sistema de computador ou outro dispositivo que seja utilizado para acessar um dos sites, portais ou aplicativos, como o endereço IP, o tipo de sistema operacional e o tipo e a versão do navegador da web. Se você acessar um site ou aplicativo da INNEO.ORG usando um dispositivo móvel, como um smartphone, as informações coletadas também incluirão, sempre que permitido, o ID de dispositivo exclusivo de seu telefone, o ID de publicidade, a localização geográfica e outros dados similares do dispositivo móvel.
 Informações de utilização de sites/comunicação: Conforme você navega e interage com sites e portais da INNEO.ORG, são utilizadas tecnologias de coleta automática de dados para coletar dados de relacionamento comerciais informações sobre as suas ações. Isso inclui informações, como, em quais links acessados, quais páginas ou conteúdos visualizados e por quanto tempo e outras informações e estatísticas semelhantes sobre essas interações, como tempo de resposta a conteúdo, erros de download e duração das visitas a determinadas páginas. Essas informações são capturadas por meio de tecnologias automatizadas, como Cookies.  Pesquisas de mercado: Informações compartilhadas voluntariamente com a INNEO.ORG sobre a experiência de uso de nossos produtos e serviços, bem como reclamações, pesquisas de satisfação e solicitações de melhoria.
 
@@ -82,33 +82,33 @@ Dados de crianças são coletados apenas em situações de necessidade e com o c
 
 Quais as finalidades para a coleta dos seus dados: 
 
->. Atender legítimo interesse da INNEO.ORG, exemplificando, inerente aos contratos de trabalho;
->. Responder a licitações e Convites para apresentação de propostas (RFP´s) que solicitem tanto dados pessoais dos colaboradores, como também dados sobre as certificações desses colaboradores, de forma a comprovar conhecimento técnico;
->. Elaborar contratos, termos e acordos;
->. Operacionalizar contratos, autorizações, termos e acordos;
->. Fornecer serviços, produtos ou informações previstas nos contratos firmados;
->. Cumprir obrigações legais;
->. Cumprir obrigações acessórias vinculadas aos contratos firmados com os Titulares dos Dados; 
->. Realizar relacionamento com o Titular; 
->. Enviar mensagens por correio eletrônico (e-mail), aplicativo próprio ou de mensagens;
->. Prover atendimento às demandas dos Titulares (chamado-fácil); 
->. Melhorar os serviços oferecidos aos Titulares de Dados; 
->. Configurar e administrar contas de usuários em ativos, sistemas, portais e aplicativos; 
->. Aplicar termos de uso de sistemas, aplicativos e portais; 
->. Para fornecer assistência, suporte e treinamento aos usuários de sistemas, portais e aplicativos; 
->. Prevenção e resolução de problemas técnicos ou de segurança; 
->. Oferecer e sugerir acesso à conteúdos, notícias, treinamentos e workshops promovidos pela INNEO.ORG (e-learning); 
->. Manter conformidade (Compliance), controles internos, auditorias internas e externas; 
->. Garantir a segurança dos acessos aos prédios e locais físicos da INNEO.ORG e dos pertences da INNEO.ORG, quando coletamos dados de visitantes
->. Aprimorar e personalizar a experiência do usuário na utilização dos serviços; 
->. Analisar a utilização dos serviços pelos usuários dos sistemas; 
->. Realizar avaliações gerenciais (dashboard), estatísticas e analíticas (nestes casos os dados serão anonimizados);
->. Realizar pesquisas de satisfação e de mercado; 
->. Aprimorar os produtos e serviços oferecidos; 
->. Alcançar o Titular com ações de marketing, nos parâmetros permitidos pela legislação; 
->. Proteger Direitos e propriedades da INNEO.ORG e exercer o Direito de Defesa em quaisquer instâncias legislativas, normativas ou regulatórias; 
->. Prevenir, detectar e contribuir com a investigação de fraudes, violações da lei e outras oriundas de notificações de autoridades do judiciário, policiais, órgãos reguladores, instituições governamentais; 
->. Fornecer, sempre que requerido pelo titular, informações sobre a coleta, tratamento, arquivamento, processamento e eliminação dos seus dados;
+ * Atender legítimo interesse da INNEO.ORG, exemplificando, inerente aos contratos de trabalho;
+ * Responder a licitações e Convites para apresentação de propostas (RFP´s) que solicitem tanto dados pessoais dos colaboradores, como também dados sobre as certificações desses colaboradores, de forma a comprovar conhecimento técnico;
+ * Elaborar contratos, termos e acordos;
+ * Operacionalizar contratos, autorizações, termos e acordos;
+ * Fornecer serviços, produtos ou informações previstas nos contratos firmados;
+ * Cumprir obrigações legais;
+ * Cumprir obrigações acessórias vinculadas aos contratos firmados com os Titulares dos Dados; 
+ * Realizar relacionamento com o Titular; 
+ * Enviar mensagens por correio eletrônico (e-mail), aplicativo próprio ou de mensagens;
+ * Prover atendimento às demandas dos Titulares (chamado-fácil); 
+ * Melhorar os serviços oferecidos aos Titulares de Dados; 
+ * Configurar e administrar contas de usuários em ativos, sistemas, portais e aplicativos; 
+ * Aplicar termos de uso de sistemas, aplicativos e portais; 
+ * Para fornecer assistência, suporte e treinamento aos usuários de sistemas, portais e aplicativos; 
+ * Prevenção e resolução de problemas técnicos ou de segurança; 
+ * Oferecer e sugerir acesso à conteúdos, notícias, treinamentos e workshops promovidos pela INNEO.ORG (e-learning); 
+ * Manter conformidade (Compliance), controles internos, auditorias internas e externas; 
+ * Garantir a segurança dos acessos aos prédios e locais físicos da INNEO.ORG e dos pertences da INNEO.ORG, quando coletamos dados de visitantes
+ * Aprimorar e personalizar a experiência do usuário na utilização dos serviços; 
+ * Analisar a utilização dos serviços pelos usuários dos sistemas; 
+ * Realizar avaliações gerenciais (dashboard), estatísticas e analíticas (nestes casos os dados serão anonimizados);
+ * Realizar pesquisas de satisfação e de mercado; 
+ * Aprimorar os produtos e serviços oferecidos; 
+ * Alcançar o Titular com ações de marketing, nos parâmetros permitidos pela legislação; 
+ * Proteger Direitos e propriedades da INNEO.ORG e exercer o Direito de Defesa em quaisquer instâncias legislativas, normativas ou regulatórias; 
+ * Prevenir, detectar e contribuir com a investigação de fraudes, violações da lei e outras oriundas de notificações de autoridades do judiciário, policiais, órgãos reguladores, instituições governamentais; 
+ * Fornecer, sempre que requerido pelo titular, informações sobre a coleta, tratamento, arquivamento, processamento e eliminação dos seus dados;
 
 Como seus dados são compartilhados:
 
@@ -134,17 +134,17 @@ Direitos dos titulares dos Dados:
 
 Ao usar os serviços do site, portais de atendimento, assinar contratos, ter acesso aos produtos e serviços da INNEO.ORG, você está dando consentimento ao Aviso de Privacidade, podendo quando cabível, exercer seus direitos previstos em lei: 
 
->. Confirmar a existência de tratamento; 
->. Solicitar detalhes sobre como suas informações estão sendo utilizadas; 
->. Solicitar correção e atualização de dados;                                                                                                                                  
->. Obter acesso a seus dados pessoais; 
->. Solicitar portabilidade de dados; 
->. Solicitar bloqueio e eliminação de dados pessoais excessivos ou tratados em desconformidade com as finalidades do seu consentimento; 
->. Solicitar exclusão (exceto aqueles que a lei autorize a conservação); 
->. Solicitar informações;  
->. Solicitar restrição de uso de determinados dados; 
->. Retirar consentimento; 
->. Recusar o recebimento de Propagandas ou conteúdos
+ * Confirmar a existência de tratamento; 
+ * Solicitar detalhes sobre como suas informações estão sendo utilizadas; 
+ * Solicitar correção e atualização de dados;                                                                                                                                  
+ * Obter acesso a seus dados pessoais; 
+ * Solicitar portabilidade de dados; 
+ * Solicitar bloqueio e eliminação de dados pessoais excessivos ou tratados em desconformidade com as finalidades do seu consentimento; 
+ * Solicitar exclusão (exceto aqueles que a lei autorize a conservação); 
+ * Solicitar informações;  
+ * Solicitar restrição de uso de determinados dados; 
+ * Retirar consentimento; 
+ * Recusar o recebimento de Propagandas ou conteúdos
 
 Como protegemos seus dados:
 
