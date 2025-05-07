@@ -34,6 +34,7 @@ Encarregado (DPO):
 Fornece as orientações sobre implementação de medidas adequadas e sobre a demonstração de conformidade pelo Controlador ou responsável pelo tratamento e atua como canal de comunicação entre o controlador, os titulares dos dados e a Autoridade Nacional de Proteção de Dados (ANPD);
 
 Como coletamos seus dados:
+
 A INNEO.ORG pode coletar os dados de forma direta ou por outros canais como portais de relacionamento com os clientes, canais de pedidos, vendas ou processos de contratação, ou ainda, obter os dados pessoais por meio de redes sociais, ou por parceiros de negócio, bem como por meio de cookies. A INNEO.ORG ainda pode obter informações pessoais sobre indivíduos de outras fontes disponíveis públicas e ou comercialmente que considere fidedignas. 
 
 Que dados coletamos:
@@ -42,9 +43,11 @@ Que dados coletamos:
 Inclui qualquer informação que permite a INNEO.ORG contatar ou verificar cadastro, como seu nome completo, CPF, data de nascimento, sexo, endereço postal, e-mail e número de telefone.
 
  * Informações de login de conta:
+   
 Qualquer informação que seja necessária para lhe dar acesso ao perfil de conta específico, como nome de usuário e login.
 
  * Informações técnicas sobre o computador/dispositivo móvel fornecido pela INNEO.ORG:
+   
 Qualquer informação sobre o sistema de computador ou outro dispositivo que seja utilizado para acessar um dos sites, portais ou aplicativos, como o endereço IP, o tipo de sistema operacional e o tipo e a versão do navegador da web. Se você acessar um site ou aplicativo da INNEO.ORG usando um dispositivo móvel, como um smartphone, as informações coletadas também incluirão, sempre que permitido, o ID de dispositivo exclusivo de seu telefone, o ID de publicidade, a localização geográfica e outros dados similares do dispositivo móvel.
 Informações de utilização de sites/comunicação: Conforme você navega e interage com sites e portais da INNEO.ORG, são utilizadas tecnologias de coleta automática de dados para coletar dados de relacionamento comerciais informações sobre as suas ações. Isso inclui informações, como, em quais links acessados, quais páginas ou conteúdos visualizados e por quanto tempo e outras informações e estatísticas semelhantes sobre essas interações, como tempo de resposta a conteúdo, erros de download e duração das visitas a determinadas páginas. Essas informações são capturadas por meio de tecnologias automatizadas, como Cookies.  Pesquisas de mercado: Informações compartilhadas voluntariamente com a INNEO.ORG sobre a experiência de uso de nossos produtos e serviços, bem como reclamações, pesquisas de satisfação e solicitações de melhoria.
 
