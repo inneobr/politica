@@ -1,7 +1,5 @@
 POLITICA PRIVACIDADE
 
-Última Atualização: 07 de maio de 2025
-
 A INNEO.ORG entende e reconhece a importância de proteger suas informações pessoais e estamos comprometidos em sempre tratar seus dados com segurança, privacidade e transparência para processá-los de forma responsável e em conformidade com as leis de proteção de dados aplicáveis. O objetivo desse documento é descrever as práticas gerais adotadas pela INNEO.ORG e informar quais dados pessoais são coletados, processados, armazenados, compartilhados pela INNEO.ORG com seus parceiros comerciais, fornecedores. Este Aviso de Privacidade não se aplica na medida em que a INNEO.ORG processa informações pessoais em nome dos clientes para benefício dos mesmos e sob o controle destes (tais como um "processador"), como aplicativos ("apps"). Ela pode se aplicar à coleta de informações relacionadas aos usuários autorizados de tais serviços na medida em que a INNEO.ORG processa tais informações, segundo seus próprios interesses (como "controlador"). Após a leitura deste Aviso de Privacidade, se você tiver dúvidas, reclamações ou quiser exercer seus direitos relacionados aos seus dados pessoais, pode contatar diretamente nosso escritório de Privacidade, por meio de nosso Canal de Atendimento.  
 
 Definições Titular do dado: 
@@ -173,4 +171,5 @@ Essas informações estão embasadas conforme Aviso Legal:  De acordo com a Lei 
 Atualização deste Aviso de Privacidade: 
 
 A INNEO.ORG poderá alterar este Aviso de Privacidade a qualquer tempo e toda vez que for alterado, uma nova versão será disponibilizada no site e portais da INNEO.ORG. 
- 
+
+Última Atualização: 07 de maio de 2025
